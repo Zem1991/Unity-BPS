@@ -1,0 +1,151 @@
+fileFormatVersion: 2
+guid: 96fb8afae50fc8c43b77f6e0e1e90c0c
+timeCreated: 1496759611
+licenseType: Free
+ModelImporter:
+  serializedVersion: 22
+  fileIDToRecycleName:
+    100000: Elevated_Ground
+    100002: Ground
+    100004: LeftWing_BackBalcony
+    100006: LeftWing_Roof
+    100008: Main_BackRoof
+    100010: Main_Balcony
+    100012: Main_F1
+    100014: Main_Roof
+    100016: RightWing_BackBalcony
+    100018: RightWing_Roof
+    100020: //RootNode
+    100022: Walls
+    400000: Elevated_Ground
+    400002: Ground
+    400004: LeftWing_BackBalcony
+    400006: LeftWing_Roof
+    400008: Main_BackRoof
+    400010: Main_Balcony
+    400012: Main_F1
+    400014: Main_Roof
+    400016: RightWing_BackBalcony
+    400018: RightWing_Roof
+    400020: //RootNode
+    400022: Walls
+    2300000: Elevated_Ground
+    2300002: Ground
+    2300004: LeftWing_BackBalcony
+    2300006: LeftWing_Roof
+    2300008: Main_BackRoof
+    2300010: Main_Balcony
+    2300012: Main_F1
+    2300014: Main_Roof
+    2300016: RightWing_BackBalcony
+    2300018: RightWing_Roof
+    2300020: Walls
+    3300000: Elevated_Ground
+    3300002: Ground
+    3300004: LeftWing_BackBalcony
+    3300006: LeftWing_Roof
+    3300008: Main_BackRoof
+    3300010: Main_Balcony
+    3300012: Main_F1
+    3300014: Main_Roof
+    3300016: RightWing_BackBalcony
+    3300018: RightWing_Roof
+    3300020: Walls
+    4300000: Walls
+    4300002: Main_BackRoof
+    4300004: LeftWing_BackBalcony
+    4300006: RightWing_BackBalcony
+    4300008: RightWing_Roof
+    4300010: LeftWing_Roof
+    4300012: Main_Balcony
+    4300014: Elevated_Ground
+    4300016: Main_Roof
+    4300018: Main_F1
+    4300020: Ground
+    7400000: Default Take
+    9500000: //RootNode
+  externalObjects:
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: unnamed
+    second: {fileID: 2100000, guid: bf423bd8c076e2148a1eae47940d97e5, type: 2}
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+    materialLocation: 0
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importVisibility: 0
+    importBlendShapes: 1
+    importCameras: 0
+    importLights: 0
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    preserveHierarchy: 0
+    indexFormat: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 0
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    rootMotionBoneRotation: {x: 0, y: 0, z: 0, w: 1}
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 2
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

@@ -1,0 +1,141 @@
+fileFormatVersion: 2
+guid: 77758f03e185f6a4ea566da84063fa28
+timeCreated: 1496938414
+licenseType: Free
+ModelImporter:
+  serializedVersion: 22
+  fileIDToRecycleName:
+    100000: Back
+    100002: Back_Roof
+    100004: Classrooms
+    100006: Ground
+    100008: Main
+    100010: Main_Balcony
+    100012: Main_Roof
+    100014: Main_Roof_Corner
+    100016: //RootNode
+    100018: Walls
+    400000: Back
+    400002: Back_Roof
+    400004: Classrooms
+    400006: Ground
+    400008: Main
+    400010: Main_Balcony
+    400012: Main_Roof
+    400014: Main_Roof_Corner
+    400016: //RootNode
+    400018: Walls
+    2300000: Back
+    2300002: Back_Roof
+    2300004: Classrooms
+    2300006: Ground
+    2300008: Main
+    2300010: Main_Balcony
+    2300012: Main_Roof
+    2300014: Main_Roof_Corner
+    2300016: Walls
+    3300000: Back
+    3300002: Back_Roof
+    3300004: Classrooms
+    3300006: Ground
+    3300008: Main
+    3300010: Main_Balcony
+    3300012: Main_Roof
+    3300014: Main_Roof_Corner
+    3300016: Walls
+    4300000: Back_Roof
+    4300002: Main_Roof_Corner
+    4300004: Main_Roof
+    4300006: Main_Balcony
+    4300008: Walls
+    4300010: Back
+    4300012: Classrooms
+    4300014: Main
+    4300016: Ground
+    7400000: Default Take
+    9500000: //RootNode
+  externalObjects:
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: unnamed
+    second: {fileID: 2100000, guid: 62655c606fb762a44a96ace5ec2bf198, type: 2}
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+    materialLocation: 0
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importVisibility: 0
+    importBlendShapes: 1
+    importCameras: 0
+    importLights: 0
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    preserveHierarchy: 0
+    indexFormat: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 0
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    rootMotionBoneRotation: {x: 0, y: 0, z: 0, w: 1}
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 2
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

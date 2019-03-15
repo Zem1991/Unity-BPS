@@ -1,0 +1,69 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1001 &100100000
+Prefab:
+  m_ObjectHideFlags: 1
+  serializedVersion: 2
+  m_Modification:
+    m_TransformParent: {fileID: 0}
+    m_Modifications: []
+    m_RemovedComponents: []
+  m_ParentPrefab: {fileID: 0}
+  m_RootGameObject: {fileID: 1766781121237726}
+  m_IsPrefabParent: 1
+--- !u!1 &1766781121237726
+GameObject:
+  m_ObjectHideFlags: 0
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 100100000}
+  serializedVersion: 5
+  m_Component:
+  - component: {fileID: 4911271941801438}
+  - component: {fileID: 114038180714010420}
+  m_Layer: 0
+  m_Name: Default Faction
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &4911271941801438
+Transform:
+  m_ObjectHideFlags: 1
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 100100000}
+  m_GameObject: {fileID: 1766781121237726}
+  m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
+  m_LocalPosition: {x: 0, y: 0, z: 0}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_Children: []
+  m_Father: {fileID: 0}
+  m_RootOrder: 0
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!114 &114038180714010420
+MonoBehaviour:
+  m_ObjectHideFlags: 1
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 100100000}
+  m_GameObject: {fileID: 1766781121237726}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: bb2b705da38d16e41bdccc0d59fe3736, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  factionName: Default Faction
+  factionColor: {r: 0, g: 0, b: 0, a: 0}
+  politicalPosition: 5
+  bldg_basic_hq: {fileID: 114273502604751790, guid: 18800d9b54ac54b40bd0ea3053da93e4,
+    type: 2}
+  bldg_advanced_hq: {fileID: 0}
+  bldg_printShop: {fileID: 114778839906110182, guid: 42e684275e341ed42b0228d611779b1f,
+    type: 2}
+  unit_militant: {fileID: 114447595697479718, guid: 2592e239f330ec84c8c80ed6cab118f7,
+    type: 2}
+  unit_voteHunter: {fileID: 114662429984481578, guid: 4198fba72e83f804188f46a06a1662f9,
+    type: 2}
+  unit_henchman: {fileID: 114888693157591574, guid: 0ae25e47739b58b4b8c4555c8d92341d,
+    type: 2}
+  unit_lawyer: {fileID: 114447595697479718, guid: 2592e239f330ec84c8c80ed6cab118f7,
+    type: 2}

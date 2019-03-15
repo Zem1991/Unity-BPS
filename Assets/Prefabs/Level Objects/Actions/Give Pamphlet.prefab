@@ -1,0 +1,82 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1001 &100100000
+Prefab:
+  m_ObjectHideFlags: 1
+  serializedVersion: 2
+  m_Modification:
+    m_TransformParent: {fileID: 0}
+    m_Modifications: []
+    m_RemovedComponents: []
+  m_ParentPrefab: {fileID: 0}
+  m_RootGameObject: {fileID: 1201365656946308}
+  m_IsPrefabParent: 1
+--- !u!1 &1201365656946308
+GameObject:
+  m_ObjectHideFlags: 0
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 100100000}
+  serializedVersion: 5
+  m_Component:
+  - component: {fileID: 4885363387036416}
+  - component: {fileID: 114233850845596930}
+  m_Layer: 0
+  m_Name: Give Pamphlet
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &4885363387036416
+Transform:
+  m_ObjectHideFlags: 1
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 100100000}
+  m_GameObject: {fileID: 1201365656946308}
+  m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
+  m_LocalPosition: {x: 0, y: 0, z: 0}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_Children: []
+  m_Father: {fileID: 0}
+  m_RootOrder: 0
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!114 &114233850845596930
+MonoBehaviour:
+  m_ObjectHideFlags: 1
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 100100000}
+  m_GameObject: {fileID: 1201365656946308}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 6b19ff86e9685c1428b918b4e4d91eb1, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  actionName: Give Pamphlet
+  img_icon: {fileID: 21300000, guid: e0a23a058c8b18a4783f323d903923d2, type: 3}
+  preferedIndex: 10
+  actionCommandType: 10
+  castType: 1
+  rangeType: 5
+  targetType: 2
+  targetDiplomacy: 0
+  targetOwner: 4
+  cooldown_current: 0
+  cooldown_maximum: 0
+  moneyCost: 0
+  hpCost: 0
+  mpCost: 0
+  minCastRange: 0
+  maxCastRange: 0
+  charge_current: 0
+  charge_maximum: 0
+  aoeRadius: 0
+  aoeDispersion: 0
+  callingAction: {fileID: 0}
+  caster: {fileID: 0}
+  targetPos: {x: 0, y: 0, z: 0}
+  targetObj: {fileID: 0}
+  group: {fileID: 0}
+  inExecution: 0
+  fm: {fileID: 0}
+  baseEffect: 15
+  effect: {fileID: 114527309549709634, guid: 7cc65c21471ea8e428e31a202d94cb5c, type: 2}
